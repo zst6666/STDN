@@ -5,6 +5,8 @@ we propose a new sutrcution with two periods to enhancing Long-Term and extreme 
 ## Experiments Result
 ## Citation
 ```javascript
-title = {**Enhancing Long-Term and Extreme Event Prediction in Dynamic system with Spatio-Temporal Diffusion Networks**},
+author = {},
+year = {},
+title = {Enhancing Long-Term and Extreme Event Prediction in Dynamic system with Spatio-Temporal Diffusion Networks},
 ```
 ## Contact
